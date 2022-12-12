@@ -1,6 +1,4 @@
-Arteklabs Skillset: Sailing Samples
-===================================
+Dinghy KDY - On Board Notes
+===========================
 
-Welcome to the ``arteklabs`` sailing samples.
-
-Read the docs `here <https://dinghy-kdy.github.io/dinghy-kdy/>`_.
+Welcome to the *Dinghy KDY*  `on board notes <https://dinghy-kdy.github.io/dinghy-kdy/>`_.
