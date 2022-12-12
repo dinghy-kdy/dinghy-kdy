@@ -1,7 +1,7 @@
-Arteklabs Skillset: Sailing
-===========================
+Dinghy KDY: On Board Diaries
+============================
 
-Welcome to the ``arteklabs`` Sailing samples.
+Welcome to the *Dinghy KDY* On Board Diaries: Notes on the practice sessions, regattas and sailing.
 
 .. toctree::
    :maxdepth: 1
